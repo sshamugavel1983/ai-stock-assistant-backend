@@ -1,0 +1,6 @@
+2025-03-12 11:03:47,635 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-12 11:03:51,913 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 11:03:51,929 - INFO - User Query: What is the latest news on Tesla? | Response: The latest news on Tesla includes Elon Musk's announcement that Tesla will double US production in two years. This announcement comes after President Trump backed the EV giant amidst a stock slump. Additionally, Tesla's stock surged 3.8%, suggesting possible further gains. There's also speculation on when Tesla's stock crash will finally stop.
+2025-03-12 11:22:06,513 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-03-12 11:22:08,945 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-12 11:22:08,965 - INFO - User Query: Tesla Stocks | Response: The Tesla stocks are rising, showing a 6.4% increase, but the context does not provide a specific reason for this increase.
