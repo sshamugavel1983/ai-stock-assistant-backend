@@ -7,7 +7,7 @@ WORKDIR /app
 # Copy project files
 COPY . .
 
-# Install dependencies
+# Install dependencies (including langchain-community)
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Expose port 8000
