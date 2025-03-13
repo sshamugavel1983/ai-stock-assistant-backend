@@ -10,3 +10,10 @@ langchain-openai
 faiss-cpu
 sentence-transformers
 python-dotenv
+tensorflow
+pandas
+numpy
+scikit-learn
+requests
+fastapi
+uvicorn

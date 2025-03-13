@@ -24,6 +24,7 @@ qa_prompt = PromptTemplate(
     template="You are a financial AI. Answer the question using the context:\n\nContext: {context}\n\nQuestion: {question}\n\nAnswer:",
 )
 
+
 def get_rag_response(query):
     llm = ChatOpenAI(model_name="gpt-4")
     qa_chain = RetrievalQA.from_chain_type(
